@@ -8,6 +8,7 @@ media
 
 # Backup files #
 *.bak
+*.back
 
 # If you are using PyCharm #
 .idea/**/workspace.xml
